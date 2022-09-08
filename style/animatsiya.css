@@ -1,0 +1,262 @@
+@keyframes redanim{
+    0% {
+        background: red;
+      }
+      25% {
+        background: red;
+      }
+      45%{
+        background: rgb(62, 0, 0);
+      }
+      65% {
+        background: rgb(62, 0, 0);
+      }
+      80% {
+        background: rgb(62, 0, 0);
+      }
+      90%{
+        background: rgb(62, 0, 0);
+      }
+      100% {
+        background: rgb(62, 0, 0);
+      }
+ }
+
+ @keyframes yellowanim{
+    0% {
+        background: rgb(62, 62, 0);
+      }
+      25% {
+        background: rgb(62, 62, 0);
+      }
+      45%{
+        background-color: yellow;
+      }
+      65% {
+       background: yellow;
+      }
+      80% {
+        background: rgb(62, 62, 0);
+      }
+      90%{
+        background: rgb(62, 62, 0);
+      }
+      100% {
+        background: rgb(62, 62, 0);
+      }
+ }
+ @keyframes greenanim{
+    0% {
+        background: rgb(0, 62, 0);
+      }
+      25% {
+        background: rgb(0, 62, 0);
+      }
+      45%{
+        background: rgb(0, 62, 0);
+      }
+      65% {
+        background: rgb(0, 62, 0);
+      }
+      80% {
+        background: green;
+      }
+      90% {
+        background: green;
+      }
+      100%{
+        background: rgb(0, 62, 0);
+      }
+ }
+ /*  */
+ @keyframes animred {
+  0% {
+    background:  rgb(62, 0, 0);
+  }
+  25% {
+    background:  red;
+  }
+  45%{
+    background: red;
+  }
+  65% {
+    background: red;
+  }
+  80% {
+    background:red;
+  }
+  90%{
+    background: red;
+  }
+  100% {
+    background: red;
+  }
+
+ 
+ }
+ @keyframes animyellow{
+  0% {
+    background: rgb(62, 62, 0);
+  }
+  25% {
+    background: rgb(62, 62, 0);
+  }
+  45%{
+    background-color: yellow;
+  }
+  65% {
+   background: yellow;
+  }
+  80% {
+    background: yellow;
+  }
+  90%{
+    background: yellow;
+  }
+  100% {
+    background: yellow;
+  }
+}
+
+@keyframes animgreen{
+  0% {
+      background: rgb(0, 62, 0);
+    }
+    25% {
+      background: rgb(0, 62, 0);
+    }
+    45%{
+      background: rgb(0, 62, 0);
+    }
+    65% {
+      background: rgb(0, 62, 0);
+    }
+    80% {
+      background: green;
+    }
+    90% {
+      background: green;
+    }
+    100%{
+      background: green;
+    }
+    
+}
+@keyframes emaje1{
+  0% {
+    background-image: url(/rasmlar/thinking.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  25% {
+    background-image: url(/rasmlar/thinking.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  45%{
+    background-image: url(/rasmlar/confused.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  65% {
+    background-image: url(/rasmlar/confused.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  85% {
+    background-image: url(/rasmlar/smiling-face.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+  }
+  85% {
+    background-image: url(/rasmlar/smiling-face.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  100%{
+    background-image: url(/rasmlar/smiling-face.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+}
+@keyframes bek{
+  0% {
+    background-image: url(/rasmlar/thinking.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  25% {
+    background-image: url(/rasmlar/thinking.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  45%{
+    background-image: url(/rasmlar/confused.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  65% {
+    background-image: url(/rasmlar/confused.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  85% {
+    background-image: url(/rasmlar/smiling-face.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+  }
+  85% {
+    background-image: url(/rasmlar/smiling-face.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  100%{
+    background-image: url(/rasmlar/smiling-face.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+}
+/*  */
+@keyframes rasm{
+  0% {
+    background-image: url("https://thumbs.dreamstime.com/b/close-up-water-drops-red-background-red-drops-water-water-drop-color-background-element-106469513.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+  }
+  25% {
+    background-image: url("https://thumbs.dreamstime.com/b/close-up-water-drops-red-background-red-drops-water-water-drop-color-background-element-106469513.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  45%{
+    background-image: url("https://static6.depositphotos.com/1177973/666/i/950/depositphotos_6667651-stock-photo-yellow-water-drops-background-with.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  65% {
+    background-image: url("https://static6.depositphotos.com/1177973/666/i/950/depositphotos_6667651-stock-photo-yellow-water-drops-background-with.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  80% {
+    background-image: url("https://wallpapers-hub.art/wallpaper-images/397993.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  90%{
+    background-image: url("https://wallpapers-hub.art/wallpaper-images/397993.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  100% {
+    background-image: url("https://wallpapers-hub.art/wallpaper-images/397993.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+}
